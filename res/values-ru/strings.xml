@@ -421,12 +421,26 @@
     <string name="settings_activity_title" msgid="5185915603716333904">"Настройки"</string>
     <string name="header_label_general_preferences" msgid="9204600297009680176">"Общие"</string>
     <string name="category_general_preferences" msgid="2742423840964045801">"Приложение"</string>
+    <!-- First category in general security preferences -->
+    <string name="category_general_security_preferences">Безопасность</string>
+    <!-- Notifications in general preferences -->
+    <string name="category_general_notification_preferences">Кнопки уведомления</string>
+    <string name="general_preference_notification_mark_as_read_label">Прочитано</string>
+    <string name="general_preference_notification_mark_as_read_summary">Показывать кнопку \"Прочитано\" в уведомлениях о новом письме</string>
+    <string name="general_preference_notification_delete_label">Удалить</string>
+    <string name="general_preference_notification_delete_summary">Показывать кнопку \"Удалить\" в уведомлениях о новом письме</string>
+    <string name="general_preference_notification_reply_label">Ответить</string>
+    <string name="general_preference_notification_reply_summary">Показывать кнопку \"Ответить\" в уведомлениях о новом письме</string>
     <string name="general_preference_auto_advance_label" msgid="213945004511666631">"Автопереход"</string>
     <string name="general_preference_auto_advance_summary" msgid="6483439980032715119">"Выберите экран для отображения после удаления цепочки писем"</string>
     <string name="general_preference_auto_advance_dialog_title" msgid="5405052109452503909">"Переходить к"</string>
     <string name="general_preference_auto_advance_newer" msgid="1336720027570509885">"Предыдущему сообщению"</string>
     <string name="general_preference_auto_advance_older" msgid="8273143493185128646">"Следующему сообщению"</string>
     <string name="general_preference_auto_advance_message_list" msgid="7834069275897767359">"Списку сообщений"</string>
+    <!-- Security preference: The title of the setting with the list of blocked attachment extensions" -->
+    <string name="security_preferences_blocked_attachment_extensions_title">Заблокированные вложения</string>
+    <!-- Security preference: The summary of the setting with the list of blocked attachment extensions" -->
+    <string name="security_preferences_blocked_attachment_extensions_summary">Выбрать тип вложений, которые будут заблокированы от просмотра и сохранения</string>
     <string name="general_preference_text_zoom_label" msgid="4021955890499565713">"Размер шрифта"</string>
   <string-array name="general_preference_text_zoom_summary_array">
     <item msgid="4693576184223089069">"Мелкий"</item>
