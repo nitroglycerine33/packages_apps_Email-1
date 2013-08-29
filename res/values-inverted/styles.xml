@@ -27,6 +27,12 @@
         <item name="android:textSize">22.0sp</item>
         <item name="android:textColor">@color/account_setup_headline_color</item>
     </style>
+
+    <!-- Info text in any account setup screen -->
+    <style name="accountSetupInfoText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/account_setup_info_text_color</item>
+    </style>
     <style name="accountSetupButton">
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
         <item name="android:textColor">?android:textColorPrimary</item>
